@@ -12,6 +12,10 @@
     border: 1px solid white;
 }
 
+.big_image {
+    width: 100%;
+}
+
 #start, #status {
   font-size: 22px;
 }
@@ -23,5 +27,15 @@
 .instruction_image {
     display: inline-block;
     width: 45%  ;
+}
+
+h4 {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c6c757d;
+    line-height: 2;
+    text-align: center;
 }
 
